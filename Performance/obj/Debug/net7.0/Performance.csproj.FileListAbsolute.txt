@@ -1,0 +1,14 @@
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\bin\Debug\net7.0\Performance.exe
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\bin\Debug\net7.0\Performance.deps.json
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\bin\Debug\net7.0\Performance.runtimeconfig.json
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\bin\Debug\net7.0\Performance.dll
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\bin\Debug\net7.0\Performance.pdb
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\obj\Debug\net7.0\Performance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\obj\Debug\net7.0\Performance.AssemblyInfoInputs.cache
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\obj\Debug\net7.0\Performance.AssemblyInfo.cs
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\obj\Debug\net7.0\Performance.csproj.CoreCompileInputs.cache
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\obj\Debug\net7.0\Performance.dll
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\obj\Debug\net7.0\refint\Performance.dll
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\obj\Debug\net7.0\Performance.pdb
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\obj\Debug\net7.0\Performance.genruntimeconfig.cache
+C:\Users\zbc23matlc\Desktop\Skole\H1\Database programering\Performance\obj\Debug\net7.0\ref\Performance.dll
